@@ -27,6 +27,10 @@
     "styled-components": "^5.2.1",
     "@strapi/strapi": "^4.0.0" 
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muammerkeles/strapi-preview-component-frame-plugin"
+  },
   "author": {
     "name": "Muammer K.",
     "email":"wwebmaster.kls@gmail.com"
